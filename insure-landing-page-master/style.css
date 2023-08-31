@@ -23,6 +23,12 @@
 .heros {
   padding: 0rem 7rem;
 }
+nav img {
+  width: 10%;
+}
+.logo {
+  width: 5%;
+}
 nav {
   padding: 1rem 7rem;
   display: flex;
@@ -49,7 +55,7 @@ a {
   /* justify-content: center; */
   /* align-items: center; */
   gap: 2rem;
-  background-color: var(--VeryDarkViolet);
+  background-color: #164f8d;
 }
 .hero_section h1 {
   margin-top: 2rem;
@@ -82,7 +88,7 @@ nav button {
 }
 .hero_section button {
   padding: 0.5rem 2rem;
-  background-color: var(--VeryDarkViolet);
+  background-color: #164f8d;
   outline: none;
   border: 1px solid var(--DarkGrayishViolet);
   color: var(--VeryLightGray);
@@ -90,7 +96,7 @@ nav button {
 .section_2 button {
   text-transform: uppercase;
   padding: 0.5rem 2rem;
-  background-color: var(--VeryDarkViolet);
+  background-color: #164f8d;
   outline: none;
   border: 1px solid var(--DarkGrayishViolet);
   color: var(--VeryLightGray);
@@ -111,7 +117,7 @@ nav button {
   color: var(--VeryLightGray);
   display: flex;
   justify-content: space-between;
-  background-color: var(--VeryDarkViolet);
+  background-color: #164f8d;
 }
 .section_1 h1 {
   margin-top: 20px;
